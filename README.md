@@ -5,7 +5,9 @@
 Oi, eu sou o Victor.
 
 Sou estudante de Programação Full-Stack na Infinity School, com foco em desenvolvimento tanto front-end quanto back-end.
+
 Estou constantemente aprendendo novas ferramentas e tecnologias para criar sistemas que atendam a diferentes demandas. Tenho experiência no desenvolvimento back-end e estou me aprofundando no front-end
+
 Sou apaixonado por estudar, aprender e estou sempre em busca de soluções criativas para desafios complexos. Acredito que a tecnologia, quando combinada com a dedicação de quem a utiliza, pode criar um futuro mais eficiente e inovador. 
 Além disso, tenho interesse em expandir meus conhecimentos em áreas como Machine Learning e DevOps.
 
