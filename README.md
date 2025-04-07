@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Victor Rodrigues
+# 🧑‍💻 Victor Rodrigues
 
 **`Desenvolvedor FullStack`**
 
