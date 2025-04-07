@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Victor Rodrigues
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Oi, eu sou o Victor.
 
