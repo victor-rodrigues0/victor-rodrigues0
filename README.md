@@ -1,6 +1,15 @@
 # 👨‍💻 Full-Stack & Data Science Explorer 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/Full-Stack%20%2B%20Data%20Science-ff69b4?style=for-the-badge&logo=github" alt="Badge"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="500"/>
+</p>
+
 
 ![Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g5dXdmbWdmYWtyMmpwYmdxNDQ2emozYjdzd2lqMnc2bzFsMnl5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![Data Science GIF](https://media.giphy.com/media/l0MYu5P9Q0Y7c3kU4/giphy.gif)
 
 > Construindo soluções criativas com **Python, JavaScript, SQL, HTML e CSS**  
 > Explorando também o universo de **Data Science, Jupyter Notebooks e Google Colab** 📊✨  
