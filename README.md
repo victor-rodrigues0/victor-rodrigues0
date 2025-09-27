@@ -1,6 +1,6 @@
 # 👨‍💻 Full-Stack & Data Science Explorer 🚀
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ0ZWR4a3lkYmtmbHpqczdlZGh5MmM5OXM2YjZ0c3M5eWRrMWl0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 > Construindo soluções criativas com **Python, JavaScript, SQL, HTML e CSS**  
 > Explorando também o universo de **Data Science, Jupyter Notebooks e Google Colab** 📊✨  
