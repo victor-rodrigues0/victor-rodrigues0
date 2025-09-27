@@ -1,6 +1,5 @@
-<p align="center">
   # 👨‍💻 Full-Stack & Data Science Explorer 🚀
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full-Stack%20%2B%20Data%20Science-ff69b4?style=for-the-badge&logo=github" alt="Badge"/>
