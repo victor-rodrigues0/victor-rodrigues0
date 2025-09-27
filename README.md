@@ -1,4 +1,7 @@
-# 👨‍💻 Full-Stack & Data Science Explorer 🚀
+<p align="center">
+  # 👨‍💻 Full-Stack & Data Science Explorer 🚀
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Full-Stack%20%2B%20Data%20Science-ff69b4?style=for-the-badge&logo=github" alt="Badge"/>
 </p>
@@ -8,10 +11,10 @@
 </p>
 
 
-> Construindo soluções criativas com **Python, JavaScript, SQL, HTML e CSS**  
-> Explorando também o universo de **Data Science, Jupyter Notebooks e Google Colab** 📊✨
-> Apaixonado por estudar, sempre em busca de soluções criativas para desafios complexos.
-> Acredito que a tecnologia, quando combinada com a dedicação de quem a utiliza, pode criar um futuro mais eficiente e inovador.
+> ● Construindo soluções criativas com **Python, JavaScript, SQL, HTML e CSS**  
+> ● Explorando também o universo de **Data Science, Jupyter Notebooks e Google Colab** 📊✨
+> ● Apaixonado por estudar, sempre em busca de soluções criativas para desafios complexos.
+> ● Acredito que a tecnologia, quando combinada com a dedicação de quem a utiliza, pode criar um futuro mais eficiente e inovador.
 
 ---
 
