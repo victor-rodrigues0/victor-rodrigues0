@@ -31,7 +31,7 @@
 
 ---
 
-## 🌈 Sobre mim
+## ⚡ Sobre mim
 
 ```python
 developer = {
