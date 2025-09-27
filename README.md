@@ -9,7 +9,9 @@
 
 
 > Construindo soluções criativas com **Python, JavaScript, SQL, HTML e CSS**  
-> Explorando também o universo de **Data Science, Jupyter Notebooks e Google Colab** 📊✨  
+> Explorando também o universo de **Data Science, Jupyter Notebooks e Google Colab** 📊✨
+> Apaixonado por estudar, sempre em busca de soluções criativas para desafios complexos.
+> Acredito que a tecnologia, quando combinada com a dedicação de quem a utiliza, pode criar um futuro mais eficiente e inovador.
 
 ---
 
